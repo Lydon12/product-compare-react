@@ -2,7 +2,7 @@
   "products": [{
       "id": "1",
       "name": "Cherry",
-      "image": "images/Cherry.png",
+      "image": "latte-small.jpg",
       "price": "$1.99",
       "colors": ["red", "green", "blue"],
       "condition": "Fresh",
