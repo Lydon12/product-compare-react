@@ -1,12 +1,12 @@
 {
   "products": [{
       "id": "1",
-      "name": "Cherry",
+      "name": "Latte",
       "image": "latte-small.jpg",
       "price": "$1.99",
       "colors": ["red", "green", "blue"],
       "condition": "Fresh",
-      "description": "Two Cherries"
+      "description": "Beautiful, beautiful coffee"
     },
     {
       "id": "2",
