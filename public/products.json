@@ -2,7 +2,7 @@
   "products": [{
       "id": "1",
       "name": "Latte",
-      "image": "latte-small.jpg",
+      "image": "images/latte-small.jpg",
       "price": "$1.99",
       "colors": ["red", "green", "blue"],
       "condition": "Fresh",
